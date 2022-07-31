@@ -1,0 +1,72 @@
+.tasks{
+    padding: 30px 20px;
+}
+
+.tasks__title{
+    margin: 0;
+    padding: 0;
+    font-family: 'Mulish';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 19px;
+    line-height: 24px;
+    letter-spacing: 0.4px;
+
+    color: #252733;
+    margin-bottom: 10px
+}
+
+.tasks__text{
+    font-family: 'Mulish';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 16px;
+    letter-spacing: 0.1px;
+    color: #9FA2B4;
+}
+
+
+.tasks__span-blue{
+    width: 16px;
+    height: 1px;
+    background-color: #3751FF;
+    margin: auto 0px;
+}
+.tasks__span{
+    width: 16px;
+    height: 1px;
+    background-color: #DFE0EB;
+}
+
+.tasks__item{
+    padding: 32px;
+    width: 342px;
+    border-left: solid 1px #DFE0EB;
+}
+
+.tasks__item + .tasks__item{
+    border-top: solid 1px #DFE0EB;
+}
+
+.tasks__text-right{
+    font-family: 'Mulish';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 22px;
+    text-align: center;
+    letter-spacing: 0.3px;
+    color: #9FA2B4;
+}
+
+.tasks__number{
+    font-family: 'Mulish';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 30px;
+    text-align: center;
+    letter-spacing: 0.3px;
+    color: #252733;
+}

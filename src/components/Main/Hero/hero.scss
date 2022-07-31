@@ -1,0 +1,47 @@
+.hero__item{
+    background-color: #FFFFFF;
+    padding: 24px 32px;
+    border-radius: 5px;
+    border: solid 1px #DFE0EB;
+    max-width: 258px;
+    width: 100%;
+}
+
+.hero__item:hover {
+    border: solid 1px #3751FF;
+}
+
+.hero__item:hover .hero__text{
+    color: #3751FF;
+}
+.hero__item:hover .hero__number{
+    color: #3751FF;
+}
+
+
+
+.hero__text{
+    font-family: 'Mulish';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 19px;
+    line-height: 24px;
+    text-align: center;
+    letter-spacing: 0.4px;
+    color: #9FA2B4;
+
+
+}
+
+.hero__number{
+    font-family: 'Mulish';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 50px;
+    text-align: center;
+    letter-spacing: 1px;
+    color: #252733;
+
+
+}

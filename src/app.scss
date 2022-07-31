@@ -1,0 +1,47 @@
+.app-container{
+    display: flex;
+    justify-content: space-between;
+}
+
+.left{
+    background-color: #363740;
+    width: 20%;
+    padding: 37px 32px;
+
+}
+
+.right{
+    padding: 30px;
+    background-color: #F7F8FC;
+    width: 80%;
+}
+
+.tasks-section{
+    border-radius: 5px;
+    border: solid 1px #DFE0EB;
+    background-color: #FFFFFF;
+    margin-bottom: 30px;
+}
+
+.ticket-div{
+    background-color: #FFFFFF;
+    border-radius: 10px;
+    width: 526px;
+    border: solid 1px #DFE0EB;
+    height: 367px;
+
+}
+.ticket-list{
+    margin-top: 22px;
+    margin-bottom: 8px;
+}
+
+.trends__div{
+    margin-left: 10px;
+    background-color: #FFFFFF;
+    border-radius: 10px;
+    width: 526px;
+    border: solid 1px #DFE0EB;
+    height: auto;
+    height: 100%;
+}

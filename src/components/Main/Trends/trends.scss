@@ -1,0 +1,30 @@
+
+.trends-wrapper{
+    padding: 0 32px;
+}
+
+.trend__title{
+    font-family: 'Mulish';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 19px;
+    line-height: 24px;
+    letter-spacing: 0.4px;
+    color: #252733;
+}
+
+.trend__top-text{
+    font-family: 'Mulish';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 16px;
+
+    letter-spacing: 0.1px;
+    color: #9FA2B4;
+}
+
+.trend__item {
+    border-top: solid 1px #DFE0EB;
+    padding: 10px 32px;
+}
